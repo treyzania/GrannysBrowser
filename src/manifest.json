@@ -4,7 +4,7 @@
 	
 	"name": "Granny's Browser",
 	"description": "Browse the web like your granny does!",
-	"version": "0.0.1",
+	"version": "1.0",
 	
 	"browser_action": {
 		
